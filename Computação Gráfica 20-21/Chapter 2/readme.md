@@ -1,5 +1,5 @@
 
-AVISOS
+##AVISOS
 É necessário criar um novo projecto que vai conter funções que irão ser chamadas, ou seja essencialmente é uma biblioteca
 O nome da Library chama-se CGLib2D, a informação como este projeto está composto, está no readme da pasta CGLib2D
 
