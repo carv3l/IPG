@@ -11,12 +11,12 @@ The library name's CGLib2d, the documentation on how this project is setup, its 
 
 ## Sumário
 
-###### 22-10-2020 Capitulo 2 - Shapes
+### 22-10-2020 Capitulo 2 - Shapes
 O ficheiro CAG.java reflete mais a parte inicial dos shapes e areas.Contem técnicas tais como exclusive or, subração de shapes dentro de areas e até mostra a intercepção de shapes.
 
 Foi dado tambem as regras de deteção dos interiores e exteriores dos shapes.
 
-###### 26-10-2020 Capitulo 2 e 3 - Continuação Shapes e Introdução ao capitulo 3 (Cores)
+##### 26-10-2020 Capitulo 2 e 3 - Continuação Shapes e Introdução ao capitulo 3 (Cores)
 
 Desenho de Shapes atráves do Generalpath
 
