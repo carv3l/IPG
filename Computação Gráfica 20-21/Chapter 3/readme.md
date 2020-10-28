@@ -12,3 +12,5 @@ Incluiu-se imagens no projeto
 
 Continuou-se com o PaintStrokes , em adicionar mais Strokes
 Deu-se Transformations
+O transformations.java é só para demonstrar o codigo da apresentação
+o compositions.java é para demonstrar o código da composição de transformações
