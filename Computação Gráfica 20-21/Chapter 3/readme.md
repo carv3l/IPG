@@ -11,6 +11,7 @@ Incluiu-se imagens no projeto
 #### 28-10-2020 Capitulo 3
 
 Continuou-se com o PaintStrokes , em adicionar mais Strokes
-Deu-se Transformations
-O transformations.java é só para demonstrar o codigo da apresentação
-o compositions.java é para demonstrar o código da composição de transformações
+
+Deu-se Transformations e composition of Transformations
+O Transformations.java é só para demonstrar o codigo da apresentação
+o Compositions.java é para demonstrar o código da composição de transformações
