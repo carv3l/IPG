@@ -11,3 +11,4 @@ Incluiu-se imagens no projeto
 #### 28-10-2020 Capitulo 3
 
 Continuou-se com o PaintStrokes , em adicionar mais Strokes
+Deu-se Transformations
